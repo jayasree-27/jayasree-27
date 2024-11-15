@@ -1,4 +1,4 @@
-<img src="C:\Users\sairi\Downloads\img1.jpg" alt="github-profile-readme-generator" style="display: flex; width: 1000px; height: 500px;">
+<img src="img1.jpg" alt="github-profile-readme-generator" style="display: flex; width: 1000px; height: 500px;">
 <h1 align="center">Hi 👋, I'm Jayasree</h1>
 <h3 align="center">A final year student from SNIST</h3>
 
