@@ -1,4 +1,4 @@
-<img src="profile-cropped.gif" alt="github-profile-readme-generator">
+![logo](https://github.com/jayasree-27/jayasree-27/blob/main/profile-cropped.gif)
 <h1 align="center">Hi 👋, I'm Jayasree</h1>
 <h3 align="center">A final year student from SNIST</h3>
 
